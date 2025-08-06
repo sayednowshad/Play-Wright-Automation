@@ -1,6 +1,6 @@
 # 🕷️ Playwright Resume Scraper
 
-A Node.js + Playwright-based automation script to scrape internship listings from **Internshala**. Searches for a keyword (e.g., "Frontend Development"), visits each listing, and extracts all relevant job data.
+A JavaScript + Playwright-based automation script to scrape internship listings from **Internshala**. Searches for a keyword (e.g., "Frontend Development"), visits each listing, and extracts all relevant job data.
 
 ---
 
